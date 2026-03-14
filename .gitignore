@@ -20,8 +20,3 @@ __pycache__/
 
 # Duplicate system package file
 apt.txt
-
-# Documents & test outputs
-*.pdf
-*.docx
-*.png
