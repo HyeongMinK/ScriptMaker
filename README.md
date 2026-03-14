@@ -128,15 +128,8 @@ Whisper STT (Speech → Text) ───────────► Script Genera
 
 ```bash
 git clone <repo-url>
-cd 25-1_v2
 pip install -r requirements.txt
 ```
-
-> **주의:** PyTorch, OpenCV, librosa는 별도 설치가 필요합니다.
-> ```bash
-> pip install torch torchvision opencv-python librosa
-> ```
-
 ffmpeg은 시스템 패키지로 설치합니다.
 
 ```bash
