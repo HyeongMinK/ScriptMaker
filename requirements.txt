@@ -6,3 +6,5 @@ av
 numpy
 openai
 pydub
+pdf2image
+pdfplumber

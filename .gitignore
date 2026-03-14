@@ -1,0 +1,27 @@
+# Runtime temp directories
+audio_files/
+pic_files/
+results/
+temp/
+
+# Model checkpoints (downloaded at runtime)
+checkpoints/
+
+# Sensitive config
+config.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Duplicate system package file
+apt.txt
+
+# Documents & test outputs
+*.pdf
+*.docx
+*.png
